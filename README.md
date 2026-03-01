@@ -29,3 +29,10 @@ Spis treści:
    - korzystanie z Worda - nagłówki, numeracja stron
    - poczta Outlook - kalendarz, podpisy
    - rozwiązanie problemu z drukowaniem arkusza Excel
+  
+5) Temat 5 - Podstawy sieci komputerowych:
+   - sprawdzenie ustawień karty sieciowej na komputerze klienta z systemem Windows (netsh, interface ipv4 show config)
+   - co to jest sieć komputerowa, jak działa, do czego służy switch
+   - rodzaje sieci (PAN, LAN, WAN)
+   - jak działa router, podstawowa konfiguracja
+   - omówienie DHCP oraz DNS
