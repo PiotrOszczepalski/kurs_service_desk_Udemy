@@ -4,8 +4,8 @@ Autor: Mariusz Kuriata, Udemy
 
 Spis treści:
 1) Temat 1 - Wprowadzenie:
-   - jak wygląda praca na service desk
-   - omówienie Jira Service Desk (rodzaje ticketów np. incydent, service request; tworzenie ticketów; priorytety; SLA; statusy np. in progress, pending; przypisywanie zadań; komentarze; korzystanie z Knowledge Base)
+   - jak wygląda praca na service desk, rodzaje linii wsparcia
+   - omówienie Jira Service Desk (rodzaje ticketów np. incident, service request; tworzenie ticketów; priorytety; SLA; statusy np. in progress, pending; przypisywanie zadań; komentarze; korzystanie z Knowledge Base)
    - zapoznanie się z podstawowymi narzędziami (KeePass, Radmin, AnyDesk, TeamViewer, PRTG)
     
 2) Temat 2 - Sprzęt, procedury, komendy:
@@ -51,3 +51,9 @@ Spis treści:
    - wprowadzenie do monitoringu sieci komputerowych
    - obsługa programu PRTG (dodawanie nowych sensorów; monitorowanie: wydajności, przepustowości, ruchu w sieci)
    - zdalna instalacja programów u klienta za pomocą Ninite Pro
+
+8) Temat 8 - Procedury:
+   - wprowadzenie do ITIL
+   - SLA, OLA, CAB/ECAB, Change Freeze Periods
+   - powtrzórzenie rodzajów zgłoszeń (incident, problem, RFC)
+   - dokumentacja pracy
