@@ -55,5 +55,5 @@ Spis treści:
 8) Temat 8 - Procedury:
    - wprowadzenie do ITIL
    - SLA, OLA, CAB/ECAB, Change Freeze Periods
-   - powtrzórzenie rodzajów zgłoszeń (incident, problem, RFC)
+   - powtórzenie rodzajów zgłoszeń (incident, problem, RFC)
    - dokumentacja pracy
