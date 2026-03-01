@@ -11,6 +11,7 @@ Spis treści:
 2) Temat 2 - Sprzęt, procedury, komendy:
    - omówienie podzespołów komputera, portów
    - jak korzystać z instrukcji obsługi komputera i innych urządzeń
+   - montaż dysku SSD w laptopie i instalacja systemu Windows 10
    - obsługa Biosu
    - rozwiązanie przykładowego problemu z wejściem do Biosu
    - rozwiązanie problemu użytkownika z podłączeniem monitora
@@ -20,6 +21,7 @@ Spis treści:
 3) Temat 3 - Systemy operacyjne:
    - podstawy Windows (tworzenie użytkowników, aktualizacja sterowników, monitor niezawodności)
    - wprowadzenie do Linuxa, podstawowe komendy np. ifconfig
+   - czym jest Ethical Hacking
    - podstawy macOS, ustawienia
    - Windows Server - omówienie Active Directory, tworzenie i zarządzanie użytkownikami
 
@@ -57,3 +59,9 @@ Spis treści:
    - SLA, OLA, CAB/ECAB, Change Freeze Periods
    - powtórzenie rodzajów zgłoszeń (incident, problem, RFC)
    - dokumentacja pracy
+
+9) Temat 9 - Antywirus:
+    - omówienie antywirusa Kaspersky
+    - zarządzanie antywirusem poprzez panel sterujący
+    - instalacja antywirusa na komputerze klienta
+    - aktywacja licencji 
