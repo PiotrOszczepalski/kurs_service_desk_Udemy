@@ -64,4 +64,8 @@ Spis treści:
     - omówienie antywirusa Kaspersky
     - zarządzanie antywirusem poprzez panel sterujący
     - instalacja antywirusa na komputerze klienta
-    - aktywacja licencji 
+    - aktywacja licencji
+
+10) Temat 10 - Szafa rack:
+    - omówienie podstawowej szafy rack
+    - do czego służy zasilacz UPS
