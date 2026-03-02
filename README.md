@@ -1,6 +1,6 @@
 Kurs: "Specjalista IT Service Desk - kurs dla początkujących"
 
-Autor: Mariusz Kuriata, Udemy
+Autor: Marious Kuriata, Udemy
 
 Spis treści:
 1) Temat 1 - Wprowadzenie:
