@@ -6,7 +6,7 @@ Kurs obejmował kompleksowe wprowadzenie do pracy na stanowisku IT Service Desk,
 
 Spis treści:
 1) Temat 1 - Wprowadzenie:
-   - jak wygląda praca na service desk, rodzaje linii wsparcia
+   - jak wygląda praca na Service Desk, rodzaje linii wsparcia
    - omówienie Jira Service Desk (rodzaje ticketów np. incident, service request; tworzenie ticketów; priorytety; SLA; statusy np. in progress, pending; przypisywanie zadań; komentarze; korzystanie z Knowledge Base)
    - zapoznanie się z podstawowymi narzędziami (KeePass, Radmin, AnyDesk, TeamViewer, PRTG)
     
