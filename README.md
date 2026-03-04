@@ -2,6 +2,8 @@ Kurs: "Specjalista IT Service Desk - kurs dla początkujących"
 
 Autor: Marious Kuriata, Udemy
 
+Kurs obejmował kompleksowe wprowadzenie do pracy na stanowisku IT Service Desk, ze szczególnym uwzględnieniem obsługi zgłoszeń, podstaw administracji systemami oraz wsparcia użytkowników końcowych. Kurs pozwolił zrozumieć realne obowiązki specjalisty Service Desk oraz przećwiczyć podstawowe scenariusze wsparcia użytkownika.
+
 Spis treści:
 1) Temat 1 - Wprowadzenie:
    - jak wygląda praca na service desk, rodzaje linii wsparcia
