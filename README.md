@@ -68,6 +68,6 @@ Spis treści:
     - instalacja antywirusa na komputerze klienta
     - aktywacja licencji
 
-10) Temat 10 - Szafa rack:
-    - omówienie podstawowej szafy rack
+10) Temat 10 - Szafa Rack:
+    - omówienie podstawowej szafy Rack
     - do czego służy zasilacz UPS
